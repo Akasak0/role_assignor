@@ -1,0 +1,11 @@
+{
+    "gray": "GRAY_ROLE_ID",
+    "brown": "BROWN_ROLE_ID",
+    "green": "GREEN_ROLE_ID",
+    "water": "WATER_ROLE_ID",
+    "blue": "BLUE_ROLE_ID",
+    "yellow": "YELLOW_ROLE_ID",
+    "orange": "ORANGE_ROLE_ID",
+    "red": "RED_ROLE_ID"
+}
+
